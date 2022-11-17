@@ -327,6 +327,6 @@ $
 👤 **GENTLE GIDEON**
 
 - GitHub: [@GentleGE](https://github.com/GentleGE)
-- LinkedIn: [LinkedIn](linkedin.com/in/Gentlege)
+- LinkedIn: [@GentleGE](linkedin.com/in/gentlege)
 - Twitter: [@GentleGE](https://twitter.com/GentleGE_)
 
